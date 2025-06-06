@@ -1,0 +1,421 @@
+[{
+  "_id": {
+    "$oid": "684308f661733c6123162356"
+  },
+  "sku": "A001",
+  "name": "Figura Luffy Gear 5",
+  "category": "Figuras",
+  "price": 135000,
+  "stock": 5,
+  "anime": "One Piece",
+  "rating": 4.9,
+  "tags": [
+    "coleccionable",
+    "resina"
+  ],
+  "provider": {
+    "name": "ToeiExpress",
+    "country": "Japón"
+  },
+  "import_type": "Importado"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162357"
+  },
+  "sku": "A002",
+  "name": "Camiseta Goku Ultra Instinct",
+  "category": "Ropa",
+  "price": 45000,
+  "stock": 12,
+  "anime": "Dragon Ball Super",
+  "rating": 4.4,
+  "tags": [
+    "algodón",
+    "unisex"
+  ],
+  "provider": {
+    "name": "OtakuDistribuciones",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162359"
+  },
+  "sku": "A004",
+  "name": "Póster Levi Ackerman",
+  "category": "Pósters",
+  "price": 15000,
+  "stock": 8,
+  "anime": "Attack on Titan",
+  "rating": 4.5,
+  "tags": [
+    "vinilo",
+    "A3"
+  ],
+  "provider": {
+    "name": "AnimePosters",
+    "country": "EEUU"
+  },
+  "import_type": "Importado"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c612316235a"
+  },
+  "sku": "A005",
+  "name": "Manga Jujutsu Kaisen Vol. 1",
+  "category": "Mangas",
+  "price": 28000,
+  "stock": 4,
+  "anime": "Jujutsu Kaisen",
+  "rating": 4.7,
+  "tags": [
+    "impreso",
+    "español"
+  ],
+  "provider": {
+    "name": "ShueishaLatino",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c612316235b"
+  },
+  "sku": "A006",
+  "name": "Llaveros My Hero Academia Pack",
+  "category": "Accesorios",
+  "price": 30000,
+  "stock": 6,
+  "anime": "My Hero Academia",
+  "rating": 4.3,
+  "tags": [
+    "metal",
+    "pack"
+  ],
+  "provider": {
+    "name": "OtakuDistribuciones",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c612316235c"
+  },
+  "sku": "A007",
+  "name": "Figura Gojo Satoru",
+  "category": "Figuras",
+  "price": 150000,
+  "stock": 3,
+  "anime": "Jujutsu Kaisen",
+  "rating": 4.9,
+  "tags": [
+    "edición especial"
+  ],
+  "provider": {
+    "name": "ToeiExpress",
+    "country": "Japón"
+  },
+  "import_type": "Importado"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c612316235d"
+  },
+  "sku": "A008",
+  "name": "Camiseta Nezuko Chan",
+  "category": "Ropa",
+  "price": 36000,
+  "stock": 10,
+  "anime": "Demon Slayer",
+  "rating": 4.6,
+  "tags": [
+    "manga",
+    "unisex"
+  ],
+  "provider": {
+    "name": "OtakuDistribuciones",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c612316235e"
+  },
+  "sku": "A009",
+  "name": "Póster Kakashi Hatake",
+  "category": "Pósters",
+  "price": 18000,
+  "stock": 7,
+  "anime": "Naruto",
+  "rating": 4.4,
+  "tags": [
+    "vinilo",
+    "color"
+  ],
+  "provider": {
+    "name": "AnimePosters",
+    "country": "EEUU"
+  },
+  "import_type": "Importado"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c612316235f"
+  },
+  "sku": "A010",
+  "name": "Manga One Piece Vol. 100",
+  "category": "Mangas",
+  "price": 32000,
+  "stock": 5,
+  "anime": "One Piece",
+  "rating": 4.8,
+  "tags": [
+    "colección",
+    "impreso"
+  ],
+  "provider": {
+    "name": "ShueishaLatino",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162360"
+  },
+  "sku": "A011",
+  "name": "Mousepad Anime Variado",
+  "category": "Accesorios",
+  "price": 25000,
+  "stock": 9,
+  "anime": "Varios",
+  "rating": 4.1,
+  "tags": [
+    "gaming",
+    "antideslizante"
+  ],
+  "provider": {
+    "name": "OtakuDistribuciones",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162361"
+  },
+  "sku": "A012",
+  "name": "Camiseta Ichigo Kurosaki",
+  "category": "Ropa",
+  "price": 40000,
+  "stock": 5,
+  "anime": "Bleach",
+  "rating": 4.5,
+  "tags": [
+    "algodón",
+    "edición limitada"
+  ],
+  "provider": {
+    "name": "AnimeRopa",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162362"
+  },
+  "sku": "A013",
+  "name": "Llavero Doraemon",
+  "category": "Accesorios",
+  "price": 12000,
+  "stock": 2,
+  "anime": "Doraemon",
+  "rating": 4,
+  "tags": [
+    "plástico",
+    "azul"
+  ],
+  "provider": {
+    "name": "JapanImports",
+    "country": "Japón"
+  },
+  "import_type": "Importado"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162363"
+  },
+  "sku": "A014",
+  "name": "Figura Sailor Moon",
+  "category": "Figuras",
+  "price": 98000,
+  "stock": 4,
+  "anime": "Sailor Moon",
+  "rating": 4.3,
+  "tags": [
+    "clásico",
+    "colección"
+  ],
+  "provider": {
+    "name": "OtakuDistribuciones",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162364"
+  },
+  "sku": "A015",
+  "name": "Manga Death Note Vol. 1",
+  "category": "Mangas",
+  "price": 27000,
+  "stock": 6,
+  "anime": "Death Note",
+  "rating": 4.9,
+  "tags": [
+    "español",
+    "clásico"
+  ],
+  "provider": {
+    "name": "ShueishaLatino",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162365"
+  },
+  "sku": "A016",
+  "name": "Taza Totoro",
+  "category": "Accesorios",
+  "price": 25000,
+  "stock": 1,
+  "anime": "My Neighbor Totoro",
+  "rating": 4.7,
+  "tags": [
+    "cerámica",
+    "cute"
+  ],
+  "provider": {
+    "name": "GhibliImports",
+    "country": "Japón"
+  },
+  "import_type": "Importado"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162366"
+  },
+  "sku": "A017",
+  "name": "Camiseta Tokyo Revengers",
+  "category": "Ropa",
+  "price": 39000,
+  "stock": 8,
+  "anime": "Tokyo Revengers",
+  "rating": 4.4,
+  "tags": [
+    "algodón",
+    "negra"
+  ],
+  "provider": {
+    "name": "OtakuDistribuciones",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162367"
+  },
+  "sku": "A018",
+  "name": "Manga Chainsaw Man Vol. 1",
+  "category": "Mangas",
+  "price": 30000,
+  "stock": 7,
+  "anime": "Chainsaw Man",
+  "rating": 4.6,
+  "tags": [
+    "sangriento",
+    "nuevo"
+  ],
+  "provider": {
+    "name": "ShueishaLatino",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162368"
+  },
+  "sku": "A025",
+  "name": "Camiseta Pikachu Vintage",
+  "category": "Ropa",
+  "price": 34000,
+  "stock": 3,
+  "anime": "Pokémon",
+  "rating": 4.2,
+  "tags": [
+    "retro",
+    "amarilla",
+    "outlet"
+  ],
+  "provider": {
+    "name": "AnimeRopa",
+    "country": "Colombia"
+  },
+  "import_type": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "684308f661733c6123162369"
+  },
+  "sku": "A034",
+  "name": "Figura Mikasa Ackerman",
+  "category": "Figuras",
+  "price": 112000,
+  "stock": 15,
+  "anime": "Attack on Titan",
+  "rating": 4.7,
+  "tags": [
+    "colección",
+    "resina"
+  ],
+  "provider": {
+    "name": "ToeiExpress",
+    "country": "Japón"
+  },
+  "import_type": "Importado"
+},
+{
+  "_id": {
+    "$oid": "684309766b6ed1df94d928ef"
+  },
+  "sku": "A101",
+  "name": "Figura Naruto Uzumaki",
+  "category": "Figuras",
+  "price": 120000,
+  "stock": 10,
+  "anime": "Naruto",
+  "rating": 4.8,
+  "tags": [
+    "coleccionable",
+    "resina",
+    "edición especial"
+  ],
+  "provider": {
+    "name": "OtakuDistribuciones",
+    "country": "Japón"
+  },
+  "import_type": "Importado"
+}]
